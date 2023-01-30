@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
   // Zerar espaçamentos padrões
@@ -11,13 +11,13 @@ export const GlobalStyle = createGlobalStyle`
   // Definir estilização de focus padrão
   :focus {
     outline: 0;
-    box-shadow: 0 0 0 2px ${props => props.theme['green-500']};
+    box-shadow: 0 0 0 2px ${(props) => props.theme['green-500']};
   }
 
   // Definir cor de fundo da tela
   body {
-    background-color: ${props => props.theme['gray-800']};
-    color: ${props => props.theme['gray-100']};
+    background-color: ${(props) => props.theme['gray-800']};
+    color: ${(props) => props.theme['gray-100']};
     -webkit-font-smoothing: antialiased;
   }
 
