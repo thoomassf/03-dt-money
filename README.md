@@ -2,7 +2,7 @@
   <img src=".github/dt-money-logo.svg" alt="DT Modey logo">
 </div>
 
-<br />
+## 🚀[Preview](https://03-dt-money-three.vercel.app)
 
 <img src=".github/thumbnail.png" alt="thumbnail" />
 
@@ -18,13 +18,13 @@
 
 <div align="center">
   <br />
-  <img src=".github/typescript.svg" alt="Typescript">
-  <img src=".github/react-2.svg" alt="React JS">
-  <img src=".github/vitejs.svg" alt="Vite JS">
-  <img src=".github/radix-ui.svg" alt="Radix UI">
-  <img src=".github/zod.svg" alt="Zod">
-  <img src=".github/react-hook-form.svg" alt="React Hook Form">
-  <img src=".github/styled-components.svg" alt="Styled Components">
+  <img src=".github/typescript.svg" width="50px" alt="Typescript">
+  <img src=".github/react-2.svg" width="50px" alt="React JS">
+  <img src=".github/vitejs.svg" width="50px" alt="Vite JS">
+  <img src=".github/radix-ui.svg" width="50px" alt="Radix UI">
+  <img src=".github/zod-logo.svg" width="50px" alt="Zod">
+  <img src=".github/styled-components.svg" width="50px" alt="Styled Components">
+  <br />
 </div>
 
 This project was developed with the following technologies:
