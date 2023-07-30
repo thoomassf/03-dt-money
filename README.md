@@ -18,18 +18,24 @@
 
 <div align="center">
   <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
+  <img src=".github/typescript.svg" alt="Typescript">
+  <img src=".github/react-2.svg" alt="React JS">
+  <img src=".github/vitejs.svg" alt="Vite JS">
+  <img src=".github/radix-ui.svg" alt="Radix UI">
+  <img src=".github/zod.svg" alt="Zod">
+  <img src=".github/react-hook-form.svg" alt="React Hook Form">
+  <img src=".github/styled-components.svg" alt="Styled Components">
 </div>
 
 This project was developed with the following technologies:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
-- [Vite] (https://vitejs.dev)
-- [RadixUI] (https://www.radix-ui.com)
-- [Zod] (https://zod.dev)
-- [React-Hook-Form] (https://react-hook-form.com)
-- [Styled-Components] (https://styled-components.com)
+- [Vite](https://vitejs.dev)
+- [RadixUI](https://www.radix-ui.com)
+- [Zod](https://zod.dev)
+- [React-Hook-Form](https://react-hook-form.com)
+- [Styled-Components](https://styled-components.com)
 
 ## 💻 Getting started
 
